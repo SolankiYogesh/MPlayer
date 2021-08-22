@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/PROJECTS/Android Projects/MPlayer/MPlayer/app/src/main/res/drawable/ic_play.xml" value="0.20052083333333334" />
+        <entry key="..\:/PROJECTS/Android Projects/MPlayer/MPlayer/app/src/main/res/drawable/splash_screen.xml" value="0.20052083333333334" />
+        <entry key="..\:/PROJECTS/Android Projects/MPlayer/MPlayer/app/src/main/res/layout/activity_main.xml" value="0.184375" />
+        <entry key="..\:/PROJECTS/Android Projects/MPlayer/MPlayer/app/src/main/res/layout/activity_sphlash_schreen.xml" value="0.184375" />
+        <entry key="..\:/PROJECTS/Android Projects/MPlayer/MPlayer/app/src/main/res/layout/app_toolbar.xml" value="0.184375" />
+        <entry key="..\:/PROJECTS/Android Projects/MPlayer/MPlayer/app/src/main/res/layout/folder_list_indicator.xml" value="0.184375" />
+        <entry key="..\:/PROJECTS/Android Projects/MPlayer/MPlayer/app/src/main/res/layout/fragment_local.xml" value="0.12182971014492754" />
+        <entry key="..\:/PROJECTS/Android Projects/MPlayer/MPlayer/app/src/main/res/layout/fragment_playist.xml" value="0.10371376811594203" />
+        <entry key="..\:/PROJECTS/Android Projects/MPlayer/MPlayer/app/src/main/res/layout/fragment_song_list.xml" value="0.10371376811594203" />
+        <entry key="..\:/PROJECTS/Android Projects/MPlayer/MPlayer/app/src/main/res/layout/music_ui.xml" value="0.184375" />
+        <entry key="..\:/PROJECTS/Android Projects/MPlayer/MPlayer/app/src/main/res/layout/playsit_menubar.xml" value="0.10371376811594203" />
+        <entry key="..\:/PROJECTS/Android Projects/MPlayer/MPlayer/app/src/main/res/layout/song_list_indicator.xml" value="0.184375" />
+        <entry key="..\:/Users/Yogesh/AndroidStudioProjects/MPlayer/app/src/main/res/drawable/ic_baseline_edit_24.xml" value="0.1935185185185185" />
+        <entry key="..\:/Users/Yogesh/AndroidStudioProjects/MPlayer/app/src/main/res/drawable/menubar_background.xml" value="0.1935185185185185" />
+        <entry key="..\:/Users/Yogesh/AndroidStudioProjects/MPlayer/app/src/main/res/drawable/music_ui_background.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/Yogesh/AndroidStudioProjects/MPlayer/app/src/main/res/drawable/next_previus_button_background.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/Yogesh/AndroidStudioProjects/MPlayer/app/src/main/res/drawable/play_btn_background.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/Yogesh/AndroidStudioProjects/MPlayer/app/src/main/res/drawable/splash_screen.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/Yogesh/AndroidStudioProjects/MPlayer/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Yogesh/AndroidStudioProjects/MPlayer/app/src/main/res/layout/details_dialog_layout.xml" value="0.2" />
+        <entry key="..\:/Users/Yogesh/AndroidStudioProjects/MPlayer/app/src/main/res/layout/file_menubar.xml" value="0.2" />
+        <entry key="..\:/Users/Yogesh/AndroidStudioProjects/MPlayer/app/src/main/res/layout/folder_list_indicator.xml" value="0.33" />
+        <entry key="..\:/Users/Yogesh/AndroidStudioProjects/MPlayer/app/src/main/res/layout/folder_menubar.xml" value="0.2" />
+        <entry key="..\:/Users/Yogesh/AndroidStudioProjects/MPlayer/app/src/main/res/layout/fragment_local.xml" value="0.1859375" />
+        <entry key="..\:/Users/Yogesh/AndroidStudioProjects/MPlayer/app/src/main/res/layout/fragment_playist.xml" value="0.1" />
+        <entry key="..\:/Users/Yogesh/AndroidStudioProjects/MPlayer/app/src/main/res/layout/fragment_song_list.xml" value="0.2" />
+        <entry key="..\:/Users/Yogesh/AndroidStudioProjects/MPlayer/app/src/main/res/layout/menubar_property.xml" value="0.2" />
+        <entry key="..\:/Users/Yogesh/AndroidStudioProjects/MPlayer/app/src/main/res/layout/music_ui.xml" value="0.14" />
+        <entry key="..\:/Users/Yogesh/AndroidStudioProjects/MPlayer/app/src/main/res/layout/playsit_menubar.xml" value="0.2" />
+        <entry key="..\:/Users/Yogesh/AndroidStudioProjects/MPlayer/app/src/main/res/layout/rename_layout.xml" value="0.2" />
+        <entry key="..\:/Users/Yogesh/AndroidStudioProjects/MPlayer/app/src/main/res/layout/song_list_indicator.xml" value="0.2" />
+        <entry key="..\:/Users/Yogesh/AndroidStudioProjects/MPlayer/app/src/main/res/layout/song_menubar.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

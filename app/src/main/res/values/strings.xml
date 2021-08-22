@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MPlayer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="storage">Internal Storage</string>
+    <string name="no_song_added">No Song Added</string>
+    <string name="name">Name:</string>
+    <string name="path">Path:</string>
+    <string name="size">Size:</string>
+    <string name="duration">Duration:</string>
+    <string name="cancel">Cancel</string>
+    <string name="rename">Rename</string>
+    <string name="share">Share</string>
+    <string name="delete">Delete</string>
+    <string name="property">Property</string>
+    <string name="add_to_playist">Add To Favorite</string>
+    <string name="remove_from_playist">Remove From Favorite</string>
+    <string name="back_to_folders">Back To Folders</string>
+</resources>
